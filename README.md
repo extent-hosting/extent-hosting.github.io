@@ -1,4 +1,5 @@
 # Extent Hosting
+remote_theme:midnight
 
 Extent Hosting offers a variety of hosting services, including Web hosting, Discord Bot hosting, and Minecraft Server hosting. Find out more about our services below.
 
@@ -49,3 +50,4 @@ We offer Minecraft Server hosting for both Bedrock and Java servers. Our server 
 ## Support
 
 *Information on how to get support or contact the team for assistance*
+
