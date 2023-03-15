@@ -36,7 +36,7 @@ Find out more about our services below.
 
 <br><br>
 # Minecraft Server Hosting
-![image](https://user-images.githubusercontent.com/48245017/225431089-ef356e0f-a9b6-4363-8f9f-7df22cec7f9c.png)<br>
+![image](https://user-images.githubusercontent.com/48245017/225432215-8fa13ad0-9847-4d01-8357-b796b8864244.png)<br>
 We offer Minecraft Server hosting for both Bedrock and Java servers. Our server types include Carbon, Argon, and Helium, each with different specifications and pricing to meet your needs.
 
 # Bedrock Server Plans
