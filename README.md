@@ -21,7 +21,7 @@ Find out more about our services below.
 | Hosting Helium  | $9.98/mo | $5.99     | 1 GB      | 10 GB   | 2              | 1          | 1               | 0.5GB           | Unlimited          | [Order Now](https://fracturedhosting.com/whmcs/index.php/store/shared-hosting/hosting-helium) |
 | Hosting Neon  | $19.96/mo | $5.99     | 2 GB      | 20 GB   | 3              | 2         | 2               | 1GB           | Unlimited          | [Order Now](https://fracturedhosting.com/whmcs/index.php/store/shared-hosting/hosting-neon)
 
-
+![image](https://user-images.githubusercontent.com/48245017/225435258-82a96a49-b155-475b-a12f-03e2863667ea.png)
 ## Discord Bot Hosting
     Discord Bots
 
@@ -33,9 +33,9 @@ Find out more about our services below.
 | Custom Discord Bot      | $100 (one-time) | -       | Custom Bot          | $3/mo       | Yes             | [Order Now](#) |
 | Create Your Own Bot Service | $57 (one-time) | -     | Source Code Access  | -           | -               | [Order Now](#) |
 
-<br><br>
+<br>![image](https://user-images.githubusercontent.com/48245017/225434839-f0e8929d-feb8-4c2c-bd7f-a5558a42ae73.png)<br>
 # Minecraft Server Hosting
-![image](https://user-images.githubusercontent.com/48245017/225435258-82a96a49-b155-475b-a12f-03e2863667ea.png)<br>
+<br>
 We offer Minecraft Server hosting for both Bedrock and Java servers. Our server types include Carbon, Argon, and Helium, each with different specifications and pricing to meet your needs.
 
 # Bedrock Server Plans
