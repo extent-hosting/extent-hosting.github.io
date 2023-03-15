@@ -28,7 +28,7 @@ Find out more about our services below.
 
 | Plan                    | Price         | Setup Fee | Included Bots       | Hosting Fee | Custom Creation | Order         |
 |-------------------------|---------------|-----------|---------------------|-------------|-----------------|---------------|
-| Bot Plans (Starting)    |               | $5.99     | - BotREd            | $3/mo       | -               | [Order Now](#) |
+| Bot Plans (Starting)    |               | $5.99     | - BotRed            | $3/mo       | -               | [Order Now](#) |
 |                         |               |           | - BotChatGPT        | $3/mo       | -               |               |
 |                         |               |           | - BotRipper         | $3/mo       | -               |               |
 | Custom Discord Bot      | $100 (one-time) | -       | Custom Bot          | $3/mo       | Yes             | [Order Now](#) |
