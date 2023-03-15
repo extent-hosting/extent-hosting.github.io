@@ -31,7 +31,8 @@ Find out more about our services below.
 | Custom Discord Bot      | $100 (one-time) | -       | Custom Bot          | $3/mo       | Yes             | [Order Now](#) |
 | Create Your Own Bot Service | $57 (one-time) | -     | Source Code Access  | -           | -               | [Order Now](#) |
 
-<br>![image](https://user-images.githubusercontent.com/48245017/225434839-f0e8929d-feb8-4c2c-bd7f-a5558a42ae73.png)<br>
+<br>![225435258-82a96a49-b155-475b-a12f-03e2863667ea](https://user-images.githubusercontent.com/48245017/225444115-6c422a03-7705-4e73-8d60-3d2238bd5f13.png)
+<br>
 # Minecraft Server Hosting
 <br>
 We offer Minecraft Server hosting for both Bedrock and Java servers. Our server types include Carbon, Argon, and Helium, each with different specifications and pricing to meet your needs.
