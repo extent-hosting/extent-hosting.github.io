@@ -22,7 +22,7 @@ Find out more about our services below.
 | Hosting Neon  | $19.96/mo | $5.99     | 2 GB      | 20 GB   | 3              | 2         | 2               | 1GB           | Unlimited          | [Order Now](https://fracturedhosting.com/whmcs/index.php/store/shared-hosting/hosting-neon)
 
 
-![tiny-d](https://user-images.githubusercontent.com/48245017/225434127-5f98fdf5-55aa-4a5e-abbf-113bd82a14d5.png)
+![image](https://user-images.githubusercontent.com/48245017/225435258-82a96a49-b155-475b-a12f-03e2863667ea.png)
 ## Discord Bot Hosting
     Discord Bots
 
