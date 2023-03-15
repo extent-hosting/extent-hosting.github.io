@@ -51,7 +51,7 @@ We offer Minecraft Server hosting for both Bedrock and Java servers. Our server 
 # Java Server Plans
     Java Server Plans
 
-| Plan           | Price    | Setup Fee | CPU Threads | RAM  | Storage | Server Panel | Addons | Backups         | DB | Players | Fractured™ Shutdowns | Order         |
+| Plan           | Price    | Setup Fee | CPU Threads | RAM  | Storage | Server Panel | Addons | Backups         | DB | Players | Fractured™ Shutdowns | Order 
 |----------------|----------|-----------|-------------|------|---------|--------------|--------|-----------------|-----------|---------|---------------|
 | Carbon | $13.99/mo | $9.99     | 1           | 1 GB | 10 GB   | Yes          | Available | Weekly         | 0         | 10      | Yes                  | [Order Now](https://fracturedhosting.com/whmcs/cart.php?a=confproduct&i=0) |
 | Argon  | $16.49/mo | $9.99     | 2           | 1 GB | 10 GB   | Yes          | Available | 2x Weekly      | 1         | 20      | Yes                  | [Order Now](https://fracturedhosting.com/whmcs/cart.php?a=confproduct&i=1) |
