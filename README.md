@@ -16,7 +16,7 @@ Find out more about our services below.
 
 | Plan         | Price    | Setup Fee | Web Space | Traffic | Email Accounts | Subdomains | MySQL Databases | MySQL Disk Space | WordPress Installs | Order        |
 |--------------|----------|-----------|-----------|---------|----------------|------------|-----------------|------------------|-------------------|--------------|
-| Hosting Carbon  | $2.49/mo | $5.99     | 0.5 GB    | 1 GB    | 0              | 0          | 0               | N/A              | Unlimited          | [Order Now]([#](https://fracturedhosting.com/whmcs/index.php/store/shared-hosting/hosting-carbon)) |
+| Hosting Carbon  | $2.49/mo | $5.99     | 0.5 GB    | 1 GB    | 0              | 0          | 0               | N/A              | Unlimited          | [Order Now](https://fracturedhosting.com/whmcs/index.php/store/shared-hosting/hosting-carbon) |
 | Hosting Argon   | $4.98/mo | $5.99     | 0.5 GB    | 2 GB    | 0              | 0          | 0               | N/A              | Unlimited          | [Order Now]([#](https://fracturedhosting.com/whmcs/index.php/store/shared-hosting/hosting-argon)) |
 | Hosting Helium  | $9.98/mo | $5.99     | 1 GB      | 10 GB   | 2              | 1          | 1               | 0.5 GB           | Unlimited          | [Order Now]([#](https://fracturedhosting.com/whmcs/index.php/store/shared-hosting/hosting-helium)) |
 | Hosting Neon  | $19.96/mo | $5.99     | 2 GB      | 20 GB   | 3              | 2         | 2               | 1 GB           | Unlimited          | [Order Now]([#](https://fracturedhosting.com/whmcs/index.php/store/shared-hosting/hosting-neon))
