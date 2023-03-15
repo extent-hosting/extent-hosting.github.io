@@ -60,7 +60,7 @@ We offer Minecraft Server hosting for both Bedrock and Java servers. Our server 
 
 ## Additional Services
 
-*Descriptions of any other hosting services you may offer*
+
 
 ## Support
 
