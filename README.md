@@ -1,4 +1,3 @@
-#
 
 Extent Hosting offers a variety of services;
 - Web Hosting
