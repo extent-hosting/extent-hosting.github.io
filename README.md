@@ -18,8 +18,8 @@ Find out more about our services below.
 |--------------|----------|-----------|-----------|---------|----------------|------------|-----------------|------------------|-------------------|--------------|
 | Hosting Carbon  | $2.49/mo | $5.99     | 0.5 GB    | 1 GB    | 0              | 0          | 0               | N/A              | Unlimited          | [Order Now](https://fracturedhosting.com/whmcs/index.php/store/shared-hosting/hosting-carbon) |
 | Hosting Argon   | $4.98/mo | $5.99     | 0.5 GB    | 2 GB    | 0              | 0          | 0               | N/A              | Unlimited          | [Order Now](https://fracturedhosting.com/whmcs/index.php/store/shared-hosting/hosting-argon) |
-| Hosting Helium  | $9.98/mo | $5.99     | 1 GB      | 10 GB   | 2              | 1          | 1               | 0.5 GB           | Unlimited          | [Order Now](https://fracturedhosting.com/whmcs/index.php/store/shared-hosting/hosting-helium) |
-| Hosting Neon  | $19.96/mo | $5.99     | 2 GB      | 20 GB   | 3              | 2         | 2               | 1 GB           | Unlimited          | [Order Now](https://fracturedhosting.com/whmcs/index.php/store/shared-hosting/hosting-neon)
+| Hosting Helium  | $9.98/mo | $5.99     | 1 GB      | 10 GB   | 2              | 1          | 1               | 0.5GB           | Unlimited          | [Order Now](https://fracturedhosting.com/whmcs/index.php/store/shared-hosting/hosting-helium) |
+| Hosting Neon  | $19.96/mo | $5.99     | 2 GB      | 20 GB   | 3              | 2         | 2               | 1GB           | Unlimited          | [Order Now](https://fracturedhosting.com/whmcs/index.php/store/shared-hosting/hosting-neon)
 
 
 
@@ -44,18 +44,18 @@ We offer Minecraft Server hosting for both Bedrock and Java servers. Our server 
 
 | Plan           | Price    | Setup Fee | CPU  | RAM  | Storage | Server Panel | Addons | Backups         | DB | Players | Order   
 |----------------|----------|-----------|-------------|------|---------|--------------|--------|-----------------|-----------|---------|---------------|
-| Carbon | $13.99/mo | $9.99     | 1           | 1 GB | 10 GB   | Yes          | Available | Weekly         | 0         | 10      | Yes                  | [Order Now](https://fracturedhosting.com/whmcs/cart.php?a=confproduct&i=3) |
-| Argon  | $16.49/mo | $9.99     | 2           | 1 GB | 10 GB   | Yes          | Available | 2x Weekly      | 1         | 20      | Yes                  | [Order Now](https://fracturedhosting.com/whmcs/cart.php?a=confproduct&i=4) |
-| Helium | $19.99/mo | $9.99     | 2           | 2 GB | 10 GB   | Yes          | Available | 2x Weekly      | 2         | 30      | Yes                  | [Order Now](https://fracturedhosting.com/whmcs/cart.php?a=confproduct&i=5) |
+| Carbon | $13.99/mo | $9.99     | 1           | 1GB | 10GB   | Yes          | Available | Weekly         | 0         | 10  | [Order Now](https://fracturedhosting.com/whmcs/cart.php?a=confproduct&i=3) |
+| Argon  | $16.49/mo | $9.99     | 2           | 1GB | 10GB   | Yes          | Available | 2x Weekly      | 1         | 20  | [Order Now](https://fracturedhosting.com/whmcs/cart.php?a=confproduct&i=4) |
+| Helium | $19.99/mo | $9.99     | 2           | 2GB | 10GB   | Yes          | Available | 2x Weekly      | 2         | 30  | [Order Now](https://fracturedhosting.com/whmcs/cart.php?a=confproduct&i=5) |
 
 # Java Server Plans
     Java Server Plans
 
-| Plan   | Price     | Setup Fee | CPU  | RAM  | Storage | Server Panel | Addons    | Backups    | DB | Players | Fractured™ Shutdowns | Order    |
-|--------|-----------|-----------|-------------|------|---------|--------------|-----------|------------|----|---------|---------------------|----------|
-| Carbon | $13.99/mo | $9.99     | 1           | 1 GB | 10 GB   | Yes          | Available | Weekly     | 0  | 10      | Yes                 | [Order Now](https://fracturedhosting.com/whmcs/cart.php?a=confproduct&i=0)|
-| Argon  | $16.49/mo | $9.99     | 2           | 1 GB | 10 GB   | Yes          | Available | 2x Weekly  | 1  | 20      | Yes                 | [Order Now](https://fracturedhosting.com/whmcs/cart.php?a=confproduct&i=1)|
-| Helium | $19.99/mo | $9.99     | 2           | 2 GB | 10 GB   | Yes          | Available | 2x Weekly  | 2  | 30      | Yes                 | [Order Now](https://fracturedhosting.com/whmcs/cart.php?a=confproduct&i=2)|
+| Plan   | Price     | Setup Fee | CPU  | RAM  | Storage | Server Panel | Addons    | Backups    | DB | Players | Order    |
+|--------|-----------|-----------|-------------|------|---------|--------------|-----------|------------|----|---------|----------|
+| Carbon | $13.99/mo | $9.99     | 1           | 1GB | 10GB   | Yes          | Available | Weekly     | 0  | 10  | [Order Now](https://fracturedhosting.com/whmcs/cart.php?a=confproduct&i=0)|
+| Argon  | $16.49/mo | $9.99     | 2           | 1GB | 10GB   | Yes          | Available | 2x Weekly  | 1  | 20 | [Order Now](https://fracturedhosting.com/whmcs/cart.php?a=confproduct&i=1)|
+| Helium | $19.99/mo | $9.99     | 2           | 2GB | 10GB   | Yes          | Available | 2x Weekly  | 2  | 30 | [Order Now](https://fracturedhosting.com/whmcs/cart.php?a=confproduct&i=2)|
 
 
 ## Support
