@@ -58,5 +58,5 @@ We offer Minecraft Server hosting for both Bedrock and Java servers. Our server 
 ## Support
 
 If you need to reach out to us for support, or just want to chat games we are here for you 24/7. <br>
-- Mastodon https://fracturedhosting.social<br>
-- Discord: https://discord.gg/jdWV6RjJ
+- [Mastodon](https://fracturedhosting.social)<br>
+- [Discord](https://discord.gg/jdWV6RjJ)<br>
